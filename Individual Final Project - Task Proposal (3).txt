@@ -1,0 +1,17 @@
+Individual Final Project - Task Proposal
+The app for Bio Zen 
+Lucy Sommer
+
+Track the location of the user on our GPS and find out exactly what they are looking for.
+
+Have users create a profile on their account to continue tracking their progress and needs.
+
+Connect user to either local doctor or more information about our company.
+
+Have users document their progress on the app and allow the doctors to have access to their charts so they can have clear communication. 
+
+Use the information given to us from both the app and the user to continue updating the app and making it better.
+
+
+
+
