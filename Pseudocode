@@ -1,7 +1,10 @@
 Individual Final Project - Task Proposal
 The app for Bio Zen 
 Lucy Sommer
-
+  User lunches application
+  \THEN 
+    Application suggest user to signup
+  
 Track the location of the user on our GPS and find out exactly what they are looking for.
 
 Have users create a profile on their account to continue tracking their progress and needs.
